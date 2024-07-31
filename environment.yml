@@ -1,0 +1,17 @@
+name: ab_test
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - seaborn
+  - statsmodels
+  - scipy
+  - plotly
+  - pyarrow
+  - pillow
